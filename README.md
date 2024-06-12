@@ -3,7 +3,7 @@
 <img align="right" alt="image" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"/>
 - 🌱 I’m currently learning **TYPSCRIPT, .NET, REDUX, REACT NATIVE**
 
-- 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/jyothikondupally/](https://www.crio.do/learn/portfolio/jyothikondupally/)
+- 👨‍💻 All of my projects are available at [https://portfolio-git-main-annem-jyothis-projects.vercel.app/]
 
 - 💬 Ask me about **REACT JS , JAVASCRIPT, HTML, CSS**
 
