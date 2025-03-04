@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ANNEM JYOTHI</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 <img align="right" alt="image" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"/>
-- 🌱 I’m currently learning **TYPSCRIPT, .NET, REDUX, REACT NATIVE**
+- 🌱 I’m currently learning ** JAVA, System Design**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-git-main-annem-jyothis-projects.vercel.app/]
 
